@@ -1,0 +1,40 @@
+body {
+    color:red;
+    background-image: url(https://img.freepik.com/vetores-gratis/ilustracao-do-dia-mundial-do-rock-desenhada-a-mao-com-mao-mostrando-sinal-de-rock_23-2149448974.jpg);
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+  }
+  
+  header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+  }
+  
+  section {
+    background-color: black;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+  }
+
+
+  
+  h1 {
+    font-size: 40px;
+    margin-left: 50%;
+  }
+  
+  p {
+    font-size: 20px;
+  }
+
+  .video1{
+    margin-top: auto;
+  }
+
+  .linhat{
+    text-align: center;
+  }
